@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, bread, eggs",
+    "completed": false,
+    "timestamp": "2024-08-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Walk the dog",
+    "description": "30-minute walk in the park",
+    "completed": false,
+    "timestamp": "2024-08-01T14:00:00Z"
+  }
+]
